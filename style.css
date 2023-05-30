@@ -441,6 +441,7 @@ li {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: 12px 0;
+  gap: 12px;
 }
 
 /* footer */

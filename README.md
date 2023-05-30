@@ -194,7 +194,7 @@ Do you like this project? So don't wait to give one star!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse!
+I would like to thank #Chindy #Shine and his valueble efforts of making prototype system,
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
