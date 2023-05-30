@@ -4,6 +4,7 @@
   <br/>
 
   <h3><b>Capstone project</b></h3>
+L·e·g·e·n·d·a·r·y· ·P·o·r·t·f·o·l·i·o
 
 </div>
 
@@ -69,13 +70,15 @@ In this project best coding practices is used.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Check out the live demo of this project [here](https://najibullahjafari.github.io/).
+Check out the live demo of this project [here](https://tiny-donut-bb9f40.netlify.app/)).
 
+here you can see the presentation of this project in youtube [here](https://www.youtube.com/watch?v=nCWkdPRZVlc).
+ 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
-1. Go to this URL link: https://github.com/najibullahjafari/Portfolio-Mobile_version.git
+1. Go to this URL link: https://github.com/najibullahjafari/Legendary-Portfolios
 2. clone the repo and start working on it.
 
 ### Prerequisites
@@ -112,7 +115,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/najibullahjafari/Portfolio-Mobile_version.git
+  git clone https://github.com/najibullahjafari/Legendary-Portfolios
 ```
 
 ### Install
@@ -193,8 +196,9 @@ Do you like this project? So don't wait to give one star!
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+I would like to acknowledge and give credit to Cindy Shin for the original design that served as inspiration for this project. Her creativity and talent are greatly appreciated.
 
-I would like to thank #Chindy #Shine and his valueble efforts of making prototype system,
+You can find more of Cindy Shin's work at [her website](https://www.behance.net/adagio07).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
