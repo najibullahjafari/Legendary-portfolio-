@@ -62,8 +62,6 @@ const models = [
 
 const cardcontainer = document.getElementById("card-container");
 const btnShow = document.querySelector(".btn-show-more");
-const btnLess = document.querySelector(".btn-show-less");
-const counter = 0;
 function makecard() {
   models.forEach((model) => {
     cardcontainer.innerHTML += `<div class="featured-card">
