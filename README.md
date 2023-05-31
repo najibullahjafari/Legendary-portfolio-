@@ -32,7 +32,8 @@ L·e·g·e·n·d·a·r·y· ·P·o·r·t·f·o·l·i·o
 
 # 📖 About the project <a name="about-project"></a>
 
-**[Legendary portfloio]** is my first capstone project. Here you add your portfolio in public and those who need a developer like you will call you!
+Legendary Portfolio is a capstone project that allows you to create and share your portfolio with others. It serves as a platform for employers or clients to discover and connect with talented developers like you.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,9 +63,9 @@ L·e·g·e·n·d·a·r·y· ·P·o·r·t·f·o·l·i·o
 
 ### Key Features <a name="key-features"></a>
 
-- **[Linters]**
-- **[Dom Manipulation]**
-- **[Responsive version]**
+- Linters for code quality
+- DOM manipulation for dynamic content
+- Responsive design for different screen sizes
 
 In this project best coding practices is used.
 
