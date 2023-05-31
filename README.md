@@ -30,7 +30,7 @@ L·e·g·e·n·d·a·r·y· ·P·o·r·t·f·o·l·i·o
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [About the project] <a name="about-project"></a>
+# 📖 About the project <a name="about-project"></a>
 
 **[Legendary portfloio]** is my first capstone project. Here you add your portfolio in public and those who need a developer like you will call you!
 
