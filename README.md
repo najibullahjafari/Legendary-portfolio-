@@ -63,7 +63,7 @@ L·e·g·e·n·d·a·r·y· ·P·o·r·t·f·o·l·i·o
 ### Key Features <a name="key-features"></a>
 
 - **[Linters]**
-- **[Capstone project]**
+- **[Dom Manipulation]**
 - **[Responsive version]**
 
 In this project best coding practices is used.
