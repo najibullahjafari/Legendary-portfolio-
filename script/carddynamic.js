@@ -80,23 +80,3 @@ function makecard() {
 }
 
 makecard();
-
-btnShow.addEventListener("click", function () {
-  models.forEach((model) => {
-    cardcontainer.innerHTML += `<div class="featured-card">
-       <div class="featured-card-img-con">
-         <img src="/img/bgimg.jpg" class="featured-card-bg" alt="background image" />
-         <img class="featured-card-img" src="${model.image}" alt="speaker image" />
-       </div>
-       <div class="featured-card-description">
-         <h3 class="featured-card-h3">${model.name}</h3>
-         <h4 class="featured-card-h4"><em>${model.job}</em></h4>
-         <span class="card-line"></span>
-         <p class="featured-card-p">${model.intro}</p>
-       </div>
-     </div>`;
-    if (window.innerWidth > 768) {
-      cardcontainer.innerHTML = "";
-    }
-  });
-});
