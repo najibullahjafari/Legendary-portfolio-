@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   list-style: none;
+/*  */
   text-decoration: none;
   font-family: Lato, sans-serif;
 }
@@ -277,11 +278,11 @@ li {
 
 .btn-show-more:hover {
   background: #ebd7d7;
-  transform: scale(0.8);
 }
 
 .btn-show-more:active {
   background: #fff;
+  transform: scale(0.99);
 }
 
 .btn-show-less {
@@ -409,7 +410,7 @@ li {
 .about-partner-icon {
   gap: 15px;
   width: 100px;
-  height: 10vw;
+  height: 60px;
 }
 
 .about-partner-3-img {
