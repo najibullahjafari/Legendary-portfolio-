@@ -565,7 +565,7 @@ li {
   .homepage {
     background-image: url("./img/hero-bg-desktop.png");
     display: grid;
-    grid-template-columns: 1.6fr 1fr;
+    grid-template-columns: 1fr 0.3fr;
     padding: 5rem;
   }
 
