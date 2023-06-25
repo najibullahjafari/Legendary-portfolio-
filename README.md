@@ -43,6 +43,7 @@ Legendary Portfolio is a capstone project that allows you to create and share yo
 - GIT,
 - GITHUB
 - LINTERS
+- Pair programming
 
 ### Tech Stack <a name="tech-stack"></a>
 
